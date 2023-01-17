@@ -6,7 +6,7 @@ Find more information at https://coana.tech.
 
 ## Contributing 
 
-Both bug reports and issues are welcome.
+Both bug reports and feature suggestions are welcome.
 
 Please read our guidelines before submitting issues:
 
